@@ -4,7 +4,7 @@ I'm a junior at Interlake High School in Bellevue, WA, in the IB Diploma Program
 
 ## What I'm working on
 - **Venture Academy Tutors:** President of a free K-8 tutoring club, and builder of the platform it runs on
-- **Research:** A remote project with University of Massachusetts professors on whether gaps in SEC risk disclosures carry information for investors
+- **Research:** A remote project with University of Massachusetts professors analyzing required and voluntary risk disclosure
 
 ## Projects
 | Project | What it is |
